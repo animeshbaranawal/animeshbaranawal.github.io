@@ -104,9 +104,9 @@ projects:
     intro: |
       
     assignments:
-      - title: DS200 - Research Methods
-        link: "https://github.com/animeshbaranawal/ds200"
-        details: Github project page for DS 200
+      - title: GCG - A Privacy-respecting Contact Tracing App for COVID-19
+        link: "https://gocoronago.app/"
+        details: Developed algorithms for proximity score calculations using [Apache Spark](https://spark.apache.org/) and [Apache Giraph](https://giraph.apache.org/).
 
       - title: Interval-centric Indexing for Distributed Temporal Reachability Queries
         link: "https://hipc.org/students-research-symposium/"
@@ -145,10 +145,19 @@ publications:
         authors: Simmhan, Y., Rambha, T., Khochare, A., Ramesh, S., Baranawal, A., George, J.V., Bhope, R.A., Namtirtha, A., Sundararajan, A., Bhargav, S.S. and Thakkar, N.
         conference: Invited artice @ Journal of the Indian Institute of Science, 2020
 
-      - title: A Distributed Path Query Engine for Temporal Property Graphs
-        link: "https://arxiv.org/pdf/2002.03274.pdf"
+      - title: A Distributed Path Query Engine for Temporal Property Graphs 
+        link: "https://ieeexplore.ieee.org/abstract/document/9139744"
         authors: Ramesh, S., Baranawal, A. and Simmhan, Y.
-        conference: CCGrid 2020 (To appear in the proceedings of CCGRID 2021)
+        conference: CCGrid 2020 @ Melbourne, Australia
+
+      - title: Granite - A distributed engine for scalable path queries over temporal property graphs
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S0743731521000253"
+        authors: Ramesh, S., Baranawal, A. and Simmhan, Y.
+        conference: Vol 151, May 2021 @ JPDC, Elsevier
+
+      - title: Event Related Data Collection from Microblog Streams
+        authors: Agarwal, MK., Baranawal, A., Simmhan Y. and Gupta M.
+        conference: To appear @ DEXA 2021
 
 # skills:
 #     title: Skills &amp; Proficiency
